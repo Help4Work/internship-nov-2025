@@ -36,5 +36,5 @@ Keep the project extremely minimal and simple with realistic milestones for the 
 |Mumba     Patrick     https://www.linkedin.com/in/mumba-patrick-7211862b5/ |
 | Kidus | Messele | https://www.linkedin.com/in/kidusmessele1343/ |
 | Lesia | Soloviova | www.linkedin.com/in/lesia-soloviova |
-
+| Viktoria | Vonsovych | www.linkedin.com/in/viktoria-v-5a0634129/ |
 
