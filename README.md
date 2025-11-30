@@ -13,7 +13,7 @@ All decisions are made in text in the channel. If you can't solve something your
 The captain also reviews code and merges pull requests.
 
 ## Project Outcome
-The result of the sprint should be launching the application via a single docker compose file from https://github.com/craftled/bordfu, using https://github.com/apitable/apitable instead of Airtable.
+The result of the sprint should be launching the application via a single docker compose file from [https://github.com/craftled/bordfu](https://github.com/Henridunantchik/internship-nov-2025), using https://github.com/apitable/apitable instead of Airtable.
 
 This is an extremely minimal and simple project aimed at removing fear of working with databases and providing just-in-time knowledge through channel discussions with participants.
 
