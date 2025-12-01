@@ -33,8 +33,9 @@ Keep the project extremely minimal and simple with realistic milestones for the 
 | Name   | Surname   | LinkedIn                                      |
 |--------|-----------|-----------------------------------------------|
 | Andrii | Rogovskyi | https://www.linkedin.com/in/andrii-rogovskyi/ |
-|Mumba     Patrick     https://www.linkedin.com/in/mumba-patrick-7211862b5/ |
+|Mumba   |  Patrick  |   https://www.linkedin.com/in/mumba-patrick-7211862b5/ |
 | Kidus | Messele | https://www.linkedin.com/in/kidusmessele1343/ |
 | Lesia | Soloviova | www.linkedin.com/in/lesia-soloviova |
+| Volodymyr | Meleshchenko | https://www.linkedin.com/in/volodymyr-meleshchenko/ |
 
 
